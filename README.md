@@ -63,11 +63,17 @@ Throughout this pipeline, data is stored in the AnnData (Annotated Data) format 
 ## Repository Structure
 
 ├── README.md
+
 ├── 01_preprocessing/
+
 │   └── README.md
+
 ├── 02_scrna_analysis/
+
 │   └── README.md
+
 └── 03_anndata/
+
 └── README.md
 
 
