@@ -1,8 +1,11 @@
 # Single-Cell RNA-seq Analysis
 
 > **Course:** Special Topics in Bioinformatics
+
 > **Student:** Nawal Babar
+
 > **Due Date:** 19th April 2026
+
 > **Platform:** Galaxy (usegalaxy.org) + Python (Google Colab)
 
 [![Galaxy](https://img.shields.io/badge/Platform-Galaxy-blue)](https://usegalaxy.org)
